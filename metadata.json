@@ -1,0 +1,7 @@
+{
+  "name": "Copy of 台南市資源與需求地圖視覺化系統",
+  "description": "提供台南市醫療資源與個案需求的分層地圖視覺化，支援 CSV 上傳、Gemini AI 地址解析以及多層疊加分析功能。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
